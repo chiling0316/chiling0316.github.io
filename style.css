@@ -1,0 +1,21 @@
+h1 {
+  color: rgb(120, 141, 157);
+}
+h2 {
+  color: rgb(75, 22, 93);
+}
+body {
+  background-color: rgb(65, 59, 59);
+  animation: rain 10s infinite;
+}
+h3 {
+  color: rgb(69, 3, 3);
+}
+@keyframes rain {
+  0% {
+    background-color: aquamarine;
+  }
+  100% {
+    background-color: bisque;
+  }
+}
