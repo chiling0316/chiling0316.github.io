@@ -9,7 +9,7 @@ body {
   animation: rain 10s infinite;
 }
 h3 {
-  color: rgb(69, 3, 3);
+  color: rgb(69, 3, 3); 
 }
 @keyframes rain {
   0% {
