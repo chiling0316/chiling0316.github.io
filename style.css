@@ -15,8 +15,17 @@ h3 {
   0% {
     background-color: aquamarine;
   }
+  30% {
+    background-color: blueviolet;
+  }
   50% {
     background-color: brown;
+  }
+  70% {
+    background-color: blue;
+  }
+  80% {
+    background-color: aquamarine;
   }
   100% {
     background-color: bisque;
